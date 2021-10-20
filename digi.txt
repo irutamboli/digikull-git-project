@@ -1,6 +1,2 @@
 # digikull-git-project
 welcome to coding irfan
-
-
-
-Alos do the project and use the git command
